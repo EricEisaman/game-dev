@@ -11,3 +11,6 @@ body {
  background:black;
  z-index:100;
 }
+#scene-container {
+ z-index:0;
+}

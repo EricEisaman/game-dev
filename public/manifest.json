@@ -14,7 +14,8 @@
       "src": "https://cdn.glitch.com/9ad2ae7c-3f18-45f2-8917-4e675bd381da%2Feddies_512.png?1549770721365"
     }
   ],
-  "display": "standalone",
+  "display": "fullscreen",
+  "orientation":"landscape",
   "background_color": "white",
   "theme_color": "maroon",
   "start_url": "/index.html"

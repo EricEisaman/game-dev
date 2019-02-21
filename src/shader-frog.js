@@ -319,8 +319,6 @@ AFRAME.registerComponent('shader-frog',{
   },
   init: function(){
     this.originalMaterial = this.el.getObject3D('mesh').material;
-    console.log("INIT SHADER FROG!");
-    console.log(shaders);
     this.shaderData = shaders[this.data.name];
   },
   update: function(){
