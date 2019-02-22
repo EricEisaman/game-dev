@@ -15,9 +15,10 @@ ____
 
 🍎 Installable as a Progressive Web App [(PWA)](https://developers.google.com/web/progressive-web-apps/).
 
-🍎 Contains a **Heads Up Display (HUD) system** including:
+🍎 **Heads Up Display (HUD) system** including:
 - **RingDial** data visualization widget
 - **Meter** data visualization widget
+- **GUI Widgets** (TODO)
     
     
     
